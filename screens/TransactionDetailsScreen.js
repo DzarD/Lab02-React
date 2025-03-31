@@ -7,7 +7,6 @@ const TransactionDetailsScreen = ({ route }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Transaction Details</Text>
 
       <View style={styles.card}>
         <View style={styles.row}>
